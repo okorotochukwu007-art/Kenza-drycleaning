@@ -1,0 +1,6 @@
+{
+  "name": "Kenza Laundry & Dry Cleaning Services",
+  "description": "Bespoke garment care, dry cleaning, and doorstep valet laundry service on Awolowo Road, Ikoyi, Lagos.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

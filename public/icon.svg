@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" fill="none">
+  <rect width="512" height="512" rx="96" fill="#080706"/>
+  <rect x="24" y="24" width="464" height="464" rx="76" stroke="#DFBC7E" stroke-opacity="0.35" stroke-width="6"/>
+  <defs>
+    <linearGradient id="kenzaGold" x1="96" y1="64" x2="416" y2="448" gradientUnits="userSpaceOnUse">
+      <stop offset="0%" stop-color="#F6E2B3" />
+      <stop offset="48%" stop-color="#DFBC7E" />
+      <stop offset="100%" stop-color="#A87E3B" />
+    </linearGradient>
+  </defs>
+  <!-- Top & Bottom Serif Bars -->
+  <path d="M128 112H232 M128 400H232 M312 112H400 M312 400H408" stroke="url(#kenzaGold)" stroke-width="18" stroke-linecap="round"/>
+  <!-- Double Vertical Stems -->
+  <path d="M164 112V400 M196 112V400" stroke="url(#kenzaGold)" stroke-width="20" stroke-linecap="round"/>
+  <!-- Upper & Lower Diagonal Arms -->
+  <path d="M196 256L360 112 M218 238L374 400" stroke="url(#kenzaGold)" stroke-width="22" stroke-linecap="round" stroke-linejoin="round"/>
+  <path d="M236 226L388 398" stroke="url(#kenzaGold)" stroke-width="10" stroke-linecap="round" opacity="0.75"/>
+</svg>
